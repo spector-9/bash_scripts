@@ -1,5 +1,6 @@
 #!/bin/sh
-# A basic script to filter all fields containing a string from tsv files especially made for timetables.
+# A basic script to filter all fields containing a string from tsv files especially made for timetables obviouslly
+# this script was just for practise as its application are very specific. However anyone is free to use it.
 # Run the script with name of the tsv file as an argument. Edit the string variable to change filter.
 # Output will be stored in final_cal
 
